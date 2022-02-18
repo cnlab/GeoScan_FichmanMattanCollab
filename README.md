@@ -7,9 +7,9 @@ This is a test repository for the geoscanning project from Falk Lab. Everything 
 
 For questions - contact @mafichman
 
-To do basic data cleaning, clone the repo to your comupter, use the file `simple_codebase.R` to load functions, execute code and write out data and a workspace to your computer.
+To do basic data cleaning, clone the repo to your computer, use the file `simple_codebase.R` to load functions, execute code and write out data and a workspace to your computer.
 
-This repo contains no subject data, only demo geotracking data and retailer data from public records.
+This repo contains no subject data, only retailer data from public records.
 
 The organization is as follows:
 
