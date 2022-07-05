@@ -1,7 +1,5 @@
 # GeoScan_FichmanMattanCollab
 
-The code will be published soon. If you have questions in the meantime, contact @nicolescooper.
-___________
 
 This is a test repository for the geoscanning project from Falk Lab. Everything is under construction and documentation is sparse at the moment.
 
